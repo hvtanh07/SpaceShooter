@@ -1,0 +1,52 @@
+﻿  MS.cpp
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(90,15): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(91,14): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(92,16): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(93,17): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\MS.cpp(48,5): warning C4805: '!=': unsafe mix of type 'boolean' and type 'bool' in operation
+  debug.cpp
+  Game.cpp
+D:\VisualSudio\Game class\ngan2\04-Collision\Game.cpp(63,39): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\Game.cpp(63,21): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\Game.cpp(262,26): warning C4305: '=': truncation from '__int64' to 'float'
+D:\VisualSudio\Game class\ngan2\04-Collision\Game.cpp(263,24): warning C4305: '=': truncation from '__int64' to 'float'
+D:\VisualSudio\Game class\ngan2\04-Collision\Game.cpp(273,26): warning C4305: '=': truncation from '__int64' to 'float'
+D:\VisualSudio\Game class\ngan2\04-Collision\Game.cpp(274,24): warning C4305: '=': truncation from '__int64' to 'float'
+  GameObject.cpp
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(90,15): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(91,14): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(92,16): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(93,17): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Torch.cpp
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(90,15): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(91,14): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(92,16): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(93,17): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\Torch.cpp(37,20): warning C4805: '!=': unsafe mix of type 'boolean' and type 'bool' in operation
+  main.cpp
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(90,15): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(91,14): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(92,16): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(93,17): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\main.cpp(92,33): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+D:\VisualSudio\Game class\ngan2\04-Collision\main.cpp(341,20): warning C4018: '<': signed/unsigned mismatch
+D:\VisualSudio\Game class\ngan2\04-Collision\main.cpp(345,20): warning C4018: '<': signed/unsigned mismatch
+D:\VisualSudio\Game class\ngan2\04-Collision\main.cpp(402,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\main.cpp(402,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\main.cpp(406,21): warning C4018: '<': signed/unsigned mismatch
+  Brick.cpp
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(90,15): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(91,14): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(92,16): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(93,17): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\Brick.cpp(10,20): warning C4805: '!=': unsafe mix of type 'boolean' and type 'bool' in operation
+  Simon.cpp
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(90,15): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(91,14): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(92,16): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.h(93,17): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Sprites.cpp
+  Textures.cpp
+  Generating Code...
+D:\VisualSudio\Game class\ngan2\04-Collision\GameObject.cpp(146): warning C4715: 'CGameObject::CheckCollision': not all control paths return a value
+  04-Collision.vcxproj -> D:\VisualSudio\Game class\ngan2\Debug\04-Collision.exe
